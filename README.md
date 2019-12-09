@@ -16,7 +16,7 @@ I found him not maintain this and left some bug ,so I copy one and republish a p
 
 ## 安装
 
-> npm install vue-pop-colorpicker --save
+> npm install vue-colorpicker-pop --save
 
 ## 使用
 
